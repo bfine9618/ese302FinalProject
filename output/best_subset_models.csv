@@ -1,6 +1,6 @@
-,R^2,Adj_R^2,MSE,model,Intercept,HR,BB,RA,singles
-1,0.3141766511533487,0.31342956689534573,108.4307943935511,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x1956cc470>,1,0,0,0,0
-2,0.544966914495055,0.5439744759225251,71.94213935647457,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x1954624e0>,1,0,0,1,0
-3,0.7592178053887152,0.7584292174150975,38.06841030045184,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x1949b8080>,1,1,0,1,1
-4,0.810787729232716,0.8099605717648809,29.915045707917013,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x126ccc438>,1,1,1,1,1
-5,0.8402395883101904,0.8393656254453665,25.2586156206242,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x1501bec88>,1,1,1,1,1
+R^2,Adj_R^2,MSE,model,Intercept,HR,BB,RA,singles
+0.314176651,0.313429567,108.4307944,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x1956cc470>,1,0,0,0,0
+0.544966914,0.543974476,71.94213936,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x1954624e0>,1,0,0,1,0
+0.759217805,0.758429217,38.0684103,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x1949b8080>,1,1,0,1,1
+0.810787729,0.809960572,29.91504571,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x126ccc438>,1,1,1,1,1
+0.840239588,0.839365625,25.25861562,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x1501bec88>,1,1,1,1,1

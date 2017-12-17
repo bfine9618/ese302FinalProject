@@ -1,0 +1,4 @@
+Adj_R^2,0.867007034518
+MSE,20.8893203041
+R^2,0.867875323738
+model,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x1bf0cac50>
