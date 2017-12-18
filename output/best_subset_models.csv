@@ -1,6 +1,6 @@
-R^2,Adj_R^2,MSE,model,Intercept,HR,BB,RA,singles
-0.314176651,0.313429567,108.4307944,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x1956cc470>,1,0,0,0,0
-0.544966914,0.543974476,71.94213936,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x1954624e0>,1,0,0,1,0
-0.759217805,0.758429217,38.0684103,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x1949b8080>,1,1,0,1,1
-0.810787729,0.809960572,29.91504571,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x126ccc438>,1,1,1,1,1
-0.840239588,0.839365625,25.25861562,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x1501bec88>,1,1,1,1,1
+R^2,Adj_R^2,MSE,model,Intercept,AB,H,IPouts,net_points
+0.8700219563763102,0.8698688609185673,16.526846238302628,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x112a36898>,1,0,0,0,1
+0.873122188861295,0.8728229487406849,16.1326483864664,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x1121d5f60>,1,0,0,1,1
+0.876760874343757,0.8763243721277373,15.669985664350811,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x1192ab390>,1,1,0,1,1
+0.8846557271186695,0.8841103641263227,14.666146752428352,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x119e400b8>,1,1,1,1,1
+0.891783733406494,0.8911434004680708,13.759813185463823,<statsmodels.regression.linear_model.RegressionResultsWrapper object at 0x11ffe9e10>,1,1,1,1,1
